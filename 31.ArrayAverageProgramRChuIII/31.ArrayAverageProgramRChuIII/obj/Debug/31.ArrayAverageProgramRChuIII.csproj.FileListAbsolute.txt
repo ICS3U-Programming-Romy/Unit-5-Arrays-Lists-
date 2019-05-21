@@ -1,0 +1,10 @@
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\bin\Debug\31.ArrayAverageProgramRChuIII.exe.config
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\bin\Debug\31.ArrayAverageProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\bin\Debug\31.ArrayAverageProgramRChuIII.pdb
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\31.ArrayAverageProgramRChuIII.csprojAssemblyReference.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\_31.ArrayAverageProgramRChuIII.frmArrayAverage.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\_31.ArrayAverageProgramRChuIII.Properties.Resources.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\31.ArrayAverageProgramRChuIII.csproj.GenerateResource.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\31.ArrayAverageProgramRChuIII.csproj.CoreCompileInputs.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\31.ArrayAverageProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\31.ArrayAverageProgramRChuIII\31.ArrayAverageProgramRChuIII\obj\Debug\31.ArrayAverageProgramRChuIII.pdb

@@ -1,0 +1,10 @@
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\33.MinValueProgramRChuIII.csprojAssemblyReference.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\_33.MinValueProgramRChuIII.frmMinValue.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\_33.MinValueProgramRChuIII.Properties.Resources.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\33.MinValueProgramRChuIII.csproj.GenerateResource.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\33.MinValueProgramRChuIII.csproj.CoreCompileInputs.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\bin\Debug\33.MinValueProgramRChuIII.exe.config
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\bin\Debug\33.MinValueProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\bin\Debug\33.MinValueProgramRChuIII.pdb
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\33.MinValueProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\33.MinValueProgramRChuIII\33.MinValueProgramRChuIII\obj\Debug\33.MinValueProgramRChuIII.pdb

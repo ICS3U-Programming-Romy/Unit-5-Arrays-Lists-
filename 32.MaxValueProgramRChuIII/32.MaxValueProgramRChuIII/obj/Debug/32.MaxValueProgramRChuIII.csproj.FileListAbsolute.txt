@@ -1,0 +1,10 @@
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\bin\Debug\32.MaxValueProgramRChuIII.exe.config
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\bin\Debug\32.MaxValueProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\bin\Debug\32.MaxValueProgramRChuIII.pdb
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\32.MaxValueProgramRChuIII.csprojAssemblyReference.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\_32.MaxValueProgramRChuIII.frmMaxValue.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\_32.MaxValueProgramRChuIII.Properties.Resources.resources
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\32.MaxValueProgramRChuIII.csproj.GenerateResource.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\32.MaxValueProgramRChuIII.csproj.CoreCompileInputs.cache
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\32.MaxValueProgramRChuIII.exe
+C:\Users\romyi\OneDrive\Desktop\Yes\32.MaxValueProgramRChuIII\32.MaxValueProgramRChuIII\obj\Debug\32.MaxValueProgramRChuIII.pdb
