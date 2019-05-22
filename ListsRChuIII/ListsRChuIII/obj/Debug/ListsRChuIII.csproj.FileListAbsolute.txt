@@ -1,0 +1,9 @@
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.csprojResolveAssemblyReference.cache
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.frmLists.resources
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.Properties.Resources.resources
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.csproj.GenerateResource.Cache
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\bin\Debug\ListsRChuIII.exe.config
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\bin\Debug\ListsRChuIII.exe
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\bin\Debug\ListsRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.exe
+C:\Users\s243855\Desktop\Yes\ListsTishamI\ListsRChuIII\obj\Debug\ListsRChuIII.pdb

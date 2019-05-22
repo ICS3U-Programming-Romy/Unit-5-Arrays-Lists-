@@ -8,3 +8,12 @@ C:\Users\romyi\OneDrive\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\De
 C:\Users\romyi\OneDrive\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.csproj.CoreCompileInputs.cache
 C:\Users\romyi\OneDrive\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.exe
 C:\Users\romyi\OneDrive\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\bin\Debug\34.2DArraysRChuIII.exe.config
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\bin\Debug\34.2DArraysRChuIII.exe
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\bin\Debug\34.2DArraysRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.csprojResolveAssemblyReference.cache
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\_34._2DArraysRChuIII.frm2DArrays.resources
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\_34._2DArraysRChuIII.Properties.Resources.resources
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.csproj.GenerateResource.Cache
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.exe
+C:\Users\s243855\Desktop\Yes\34.2DArraysRChuIII\34.2DArraysRChuIII\obj\Debug\34.2DArraysRChuIII.pdb

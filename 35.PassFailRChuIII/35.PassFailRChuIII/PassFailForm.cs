@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Romy I. Chu III
+ * Created on: 03-05-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #41 - Pass Fail
+ * This program... Determines wether a student passes or fails, given some information (Number of students, weights for each mark, each mark, etc.).
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

@@ -1,0 +1,9 @@
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.csprojResolveAssemblyReference.cache
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.frmReadWrite.resources
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.Properties.Resources.resources
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.csproj.GenerateResource.Cache
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\bin\Debug\ReadWriteRChuIII.exe.config
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\bin\Debug\ReadWriteRChuIII.exe
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\bin\Debug\ReadWriteRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.exe
+C:\Users\s243855\Desktop\Yes\ReadWriteRChuIII\ReadWriteRChuIII\obj\Debug\ReadWriteRChuIII.pdb

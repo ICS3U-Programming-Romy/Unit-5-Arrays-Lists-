@@ -8,3 +8,12 @@ C:\Users\romyi\OneDrive\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\De
 C:\Users\romyi\OneDrive\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.csproj.CoreCompileInputs.cache
 C:\Users\romyi\OneDrive\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.exe
 C:\Users\romyi\OneDrive\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\bin\Debug\35.PassFailRChuIII.exe.config
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\bin\Debug\35.PassFailRChuIII.exe
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\bin\Debug\35.PassFailRChuIII.pdb
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.csprojResolveAssemblyReference.cache
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\_35.PassFailRChuIII.frmPassFail.resources
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\_35.PassFailRChuIII.Properties.Resources.resources
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.csproj.GenerateResource.Cache
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.exe
+C:\Users\s243855\Desktop\Yes\35.PassFailRChuIII\35.PassFailRChuIII\obj\Debug\35.PassFailRChuIII.pdb

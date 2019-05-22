@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Romy I. Chu III
+ * Created on: 30-04-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #39 - 2D Arrays
+ * This program... Generates a 2D array of numbers and finds the average of those numbers.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
